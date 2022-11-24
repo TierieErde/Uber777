@@ -1,2 +1,2 @@
 # Uber777
-htms sass project - from Frontend study cours
+htms sass adaptive project - from Frontend study cours
